@@ -11,20 +11,18 @@ Educational AC system （Key words: AC JAVA MySQL）
 
 Due to the large number of people in the current university and the complicated situation, a special system is needed to deal with school affairs. I have made an AC system. This AC system can view the background of the school and various humanities and cultures of the school on the home page. On the login page , Different identities can choose different login entries, students can check their grades or courses, teachers can also check, and administrators can manage student information.
 
-
-![](https://github.com/dbader/readme-template/raw/master/header.png)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/1.jpg)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/2.jpg)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/3.jpg)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/4.jpg)
 
 ## Getting Started 使用指南
 
-项目使用条件、如何安装部署、怎样运行使用以及使用演示
+The project develops the application functionality utilising the representation layer, business layer, and database layer of the Java EE 3-layer architecture. The three-tier structure, which is based on Java EE, is made up of the web browser, web server, and database server. The HTTP protocol enables two-way communication between the user's browser and the web server, which is the responsibility of the web server. A file management system is also installed on the server to store a significant amount of file data and allow access to the files at a specific location on the server in accordance with the platform's module classification. On a server running Windows, the file management system, web services, and database are all deployed simultaneously.
 
 ### Prerequisites 项目使用条件
 
-你需要安装什么软件以及如何去安装它们。
-
-```
-Give examples
-```
+eclipse and Tomcat
 
 ### Installation 安装
 
@@ -44,17 +42,14 @@ Give the example
 
 ### Usage example 使用示例
 
-给出更多使用演示和截图，并贴出相应代码。
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/5.jpg)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/6.jpg)
 
 ## Deployment 部署方法
 
 部署到生产环境注意事项。
 
-## Contributing 贡献指南
 
-Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the process for submitting pull requests to us.
-
-清阅读 [CONTRIBUTING.md](#) 了解如何向这个项目贡献代码
 
 ## Release History 版本历史
 
@@ -67,7 +62,7 @@ Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the pro
 
 ## Authors 关于作者
 
-* **WangYan** - *Initial work* - [WangYan](https://wangyan.org)
+* **HUANG DONGJIE ** - *Initial work* - [HUANG DONGEJIE]
 
 查看更多关于这个项目的贡献者，请阅读 [contributors](#) 
 
