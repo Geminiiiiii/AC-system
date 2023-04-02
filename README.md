@@ -11,10 +11,10 @@ Educational AC system （Key words: AC JAVA MySQL）
 
 Due to the large number of people in the current university and the complicated situation, a special system is needed to deal with school affairs. I have made an AC system. This AC system can view the background of the school and various humanities and cultures of the school on the home page. On the login page , Different identities can choose different login entries, students can check their grades or courses, teachers can also check, and administrators can manage student information.
 
-![Image](https://github.com/Geminiiiiii/ac-system/raw/main/1.jpg)
-![Image](https://github.com/Geminiiiiii/ac-system/raw/main/2.jpg)
-![Image](https://github.com/Geminiiiiii/ac-system/raw/main/3.jpg)
-![Image](https://github.com/Geminiiiiii/ac-system/raw/main/4.jpg)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/1.png)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/2.png)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/3.png)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/4.png)
 
 ## Getting Started 使用指南
 
@@ -42,8 +42,8 @@ Give the example
 
 ### Usage example 使用示例
 
-![Image](https://github.com/Geminiiiiii/ac-system/raw/main/5.jpg)
-![Image](https://github.com/Geminiiiiii/ac-system/raw/main/6.jpg)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/5.png)
+![Image](https://github.com/Geminiiiiii/ac-system/raw/main/6.png)
 
 ## Deployment 部署方法
 
